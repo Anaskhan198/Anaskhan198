@@ -30,7 +30,7 @@
 <div> 
 <p align="center">
   <a href="anaskhanbjr22@gmail.com">
-    <img src="[![Email Me](https://img.shields.io/badge/Email-Click%20to%20Contact-orange)](mailto:your_email@example.com)
+    <img src="[![Email Me](https://img.shields.io/badge/Email-Click%20to%20Contact-orange)](mailto:anaskhanbjr22@gmail.com)
 " alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/anas-khan-837326176/">
