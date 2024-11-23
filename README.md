@@ -11,7 +11,7 @@
 
 <br>
 
-#### <span style="color:blue">I specialize in Deep Learning, Robotics, and Embedded Software. I'm passionate about vision-language models, medical image analysis, large language models, and robot learning.</span>
+#### <span style="color:blue">I specialize in Digital IC design , Verilog, System verilog, FPGAs, RISC-V, System Verification, Assembly language, and Embedded Systems. I'm passionate about digital design and verification, Assembly Language , and Embedded Systems.</span>
 
 <br>
 
